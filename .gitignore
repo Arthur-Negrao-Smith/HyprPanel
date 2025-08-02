@@ -42,3 +42,5 @@
 
 # lsp configuration file
 .clangd
+compile_commands.json
+.cache/
